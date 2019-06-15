@@ -1,3 +1,3 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490.4 105.85"><defs><style>.cls-1{fill:none;stroke:#3182ce;stroke-linecap:round;stroke-linejoin:bevel;stroke-width:9px;}.cls-2{font-size:89.1px;fill:#3182ce;font-family:ProximaNova-Semibold, Proxima Nova;font-weight:700;}</style></defs><title>cyclone_logo</title><line class="cls-1" x1="4.5" y1="14.23" x2="154.24" y2="14.23"/><path class="cls-1" d="M7.05,174.14" transform="translate(-2.55 -99.61)"/><line class="cls-1" x1="22.59" y1="32.32" x2="129.12" y2="32.32"/><line class="cls-1" x1="58.77" y1="51.42" x2="140.17" y2="51.42"/><line class="cls-1" x1="73.84" y1="71.52" x2="129.12" y2="71.52"/><line class="cls-1" x1="79.87" y1="91.62" x2="102.99" y2="91.62"/><text class="cls-2" transform="translate(167.85 74.22)">Cyclone</text></svg>
 
+![Alt text](./logo.svg?raw=true "Logo")
 ## A Tailwind CSS component library 
