@@ -1,0 +1,9 @@
+{
+  "name": "Cyclone",
+  "version": "1.0.0",
+  "description": "a Tailwind CSS & React component library.",
+  "main": "index.js",
+  "repository": "https://github.com/mattbasile/Cyclone.git",
+  "author": "Matt Basile <matthewbasile2@gmail.com>",
+  "license": "MIT"
+}
