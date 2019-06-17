@@ -1,3 +1,2 @@
-
-![Alt text](./logo.svg?raw=true "Logo")
+![Logo](./logo.svg)
 ## A Tailwind CSS component library 
