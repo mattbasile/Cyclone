@@ -10,9 +10,13 @@
 </head>
 <body class="">
   <h1 class="text-5xl font-semibold text-blue-700">Cyclone</h1>
-
-  <cyclone-button color="blue" text="Help"></cyclone-button>
+  <cyclone-button onClick="console.log('test')" color="blue"  hover="true">`${value}`</cyclone-button>
 </body>
-<script src="./index.js"></script>
+<script src="./index.js">
+  let value = 0
+  const sum = () =>{
+    value++
+  }
+</script>
 <script src="./components/Buttons/buttons.js"></script>
 </html>
